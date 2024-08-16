@@ -8,5 +8,11 @@ To generate dataset use the below source
 - DEM [Open Tpogography NASA DEM](https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.032021.4326.2)
 - Satellite Images [Google Earth Engine](https://code.earthengine.google.com/)
 
+Prepared Datatset: [Dataset](https://www.kaggle.com/datasets/raviverma2791747/satellite-2-dem)
+Consist of satellite images and their corresponding DEM (Digital Elevation Map)
+
 ## References
 - Code [Digital Sreeni Youtube](https://www.youtube.com/watch?v=6pUSZgPJ3Yg)
+
+## Demo
+Here is the demo [![video](https://github.com/raviverma2791747/satellite-to-dem/blob/main/demo/demo.png)](https://github.com/raviverma2791747/satellite-to-dem/blob/main/demo/demo.mkv)
