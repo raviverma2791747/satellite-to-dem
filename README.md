@@ -12,7 +12,7 @@ Prepared Datatset: [Dataset](https://www.kaggle.com/datasets/raviverma2791747/sa
 Consist of satellite images and their corresponding DEM (Digital Elevation Map)
 
 ## Trained Model
-Trained model available ![here](https://www.kaggle.com/models/raviverma2791747/satellite-image-to-dem)   
+Trained model available [here](https://www.kaggle.com/models/raviverma2791747/satellite-image-to-dem)   
 
 ## References
 - Code [Digital Sreeni Youtube](https://www.youtube.com/watch?v=6pUSZgPJ3Yg)
